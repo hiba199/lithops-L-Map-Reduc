@@ -1,7 +1,7 @@
 from timeit import default_timer as timer
 import lithops
 
-iterdata = ['cos://cloud-object-storage-lithops-d7-cos/vocab.pubmed.txt']   # Change-me
+iterdata = ['cos://cloud-object-storage-lithops-d7-cos/xxx.txt']   # Change-me
 
 
 def my_map_function(obj):
